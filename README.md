@@ -34,7 +34,7 @@
 ---
 
 ## 📊 GitHub Stats<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiJ04&show_icons=true&theme=radical&hide_border=true" alt="Adi09 GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AditiJ04&show_icons=true&theme=radical&hide_border=true" alt="AditiJ04 GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiJ04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 

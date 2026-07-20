@@ -33,10 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiJ04&show_icons=true&theme=radical&hide_border=true" alt="AditiJ04 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiJ04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiJ04&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -46,9 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiJ04&theme=react-dark&hide_border=true" alt="Activity Graph" width="98%" />
 </p>
 
-<p align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=AditiJ04&theme=radical&no-frame=true&row=1&column=7)
-</p>
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-j-3261b625b/)

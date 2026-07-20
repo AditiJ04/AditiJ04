@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AditiJ04&theme=radical&row=1&column=7" alt="Trophies" width="98%" />
+  ![trophy](https://github-profile-trophy.vercel.app/?username=AditiJ04&theme=radical&no-frame=true&row=1&column=7)
 </p>
 ### 📫 Connect With Me
 

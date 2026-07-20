@@ -35,14 +35,13 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AditiJ04&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.streak-stats.demolab.com?user=AditiJ04&theme=tokyonight" alt="Aditi's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AditiJ04&theme=tokyonight" alt="Aditi's GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiJ04&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>

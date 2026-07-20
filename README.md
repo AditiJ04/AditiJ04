@@ -15,8 +15,8 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final year Computer Science undergrad  
-- 🧠 I love building real-world projects in ML, OS, Web Dev  
+- 🎓 Computer Science Graduate
+- 🧠 I love building real-world projects in ML, Web Development  
   
 ---
 

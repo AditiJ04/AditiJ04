@@ -34,20 +34,20 @@
 ---
 
 ## 📊 GitHub Stats<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi09&show_icons=true&theme=radical&hide_border=true" alt="Adi09 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi09&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AditiJ04&show_icons=true&theme=radical&hide_border=true" alt="Adi09 GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiJ04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi09&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiJ04&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi09&theme=react-dark&hide_border=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiJ04&theme=react-dark&hide_border=true" alt="Activity Graph" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adi09&theme=radical&row=1&column=7" alt="Trophies" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AditiJ04&theme=radical&row=1&column=7" alt="Trophies" width="98%" />
 </p>
 ### 📫 Connect With Me
 

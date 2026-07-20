@@ -34,8 +34,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AditiJ04&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiJ04&layout=compact&theme=radical)
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-j-3261b625b/)
